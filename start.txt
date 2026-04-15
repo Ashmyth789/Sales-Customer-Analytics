@@ -1,4 +1,0 @@
-unzip olist-ecommerce-analytics.zip
-cd olist-ecommerce-analytics
-git init && git add . && git commit -m "Initial commit"
-gh repo create olist-ecommerce-analytics --public --source=. --push
