@@ -1,4 +1,4 @@
-# Olist E-Commerce — Customer Analytics
+# E-Commerce Sales & Customer Analytics
 
 > End-to-end data analyst portfolio project: geographic intelligence, customer segmentation, RFM scoring, retention analysis, and a live Streamlit dashboard — built on the Brazilian Olist e-commerce dataset.
 
