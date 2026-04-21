@@ -1,5 +1,5 @@
 """
-app.py — Olist E-Commerce Analytics Dashboard
+app.py — E-commerce Analytics Dashboard
 Run: streamlit run streamlit_app/app.py
 """
 
