@@ -35,6 +35,9 @@ This project answers five core business questions using 99,441 customer orders f
 **Scale:** 99,441 rows · 5 columns · ~10 MB
 
 ---
+## Dashboard
+![Alt Text](screenshots/ss1.png)
+![Alt Text](screenshots/ss2.png)
 
 ## Key Findings
 
@@ -134,7 +137,4 @@ Based on findings, three high-impact actions for the Olist product team:
 - Goal: Reduce SP concentration to <35%
 
 ---
-## Dashboard
--![Alt Text](screenshots/ss1.png)
--![Alt Text](screenshots/ss2.png)
 
