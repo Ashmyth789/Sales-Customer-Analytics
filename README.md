@@ -135,3 +135,6 @@ Based on findings, three high-impact actions for the Olist product team:
 
 ---
 ## Dashboard
+-![Alt Text](screenshots/ss1.png)
+-![Alt Text](screenshots/ss2.png)
+
