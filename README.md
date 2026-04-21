@@ -134,3 +134,4 @@ Based on findings, three high-impact actions for the Olist product team:
 - Goal: Reduce SP concentration to <35%
 
 ---
+## Dashboard
